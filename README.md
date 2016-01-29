@@ -26,4 +26,4 @@ And what about that original opening section? We moved that to a new section aft
 
 Notice now that there’s an example to illustrate the idea, and once the situation is presented, then we talk about the problem. Also now, we’ve better explained what “no smooth transition between pages” means. 
 
-<a href='https://learn.co/lessons/example-improving-our-not-so-great-beginning' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/example-improving-our-not-so-great-beginning' title='Our Original Version'>Our Original Version</a> on Learn.co and start learning to code for free.</p>
